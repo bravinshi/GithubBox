@@ -22,8 +22,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/amggt/bravin/com/githubbox/OkHttpManager.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="380">
               <caret line="149" column="29" lean-forward="true" selection-start-line="149" selection-start-column="29" selection-end-line="149" selection-end-column="29" />
+=======
+            <state relative-caret-position="456">
+              <caret line="138" column="31" lean-forward="true" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="31" />
+>>>>>>> 5e154eeb92f95b16be5a311543fde90b80c8d2b6
             </state>
           </provider>
         </entry>
@@ -33,6 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -40,6 +46,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 5e154eeb92f95b16be5a311543fde90b80c8d2b6
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
@@ -171,6 +179,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+<<<<<<< HEAD
+=======
+    <editor active="true" />
+>>>>>>> 5e154eeb92f95b16be5a311543fde90b80c8d2b6
     <layout>
       <window_info content_ui="combo" id="Project" visible="true" weight="0.21748401" />
       <window_info id="Structure" side_tool="true" />
@@ -204,8 +216,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/amggt/bravin/com/githubbox/OkHttpManager.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="380">
           <caret line="149" column="29" lean-forward="true" selection-start-line="149" selection-start-column="29" selection-end-line="149" selection-end-column="29" />
+=======
+        <state relative-caret-position="456">
+          <caret line="138" column="31" lean-forward="true" selection-start-line="138" selection-start-column="31" selection-end-line="138" selection-end-column="31" />
+>>>>>>> 5e154eeb92f95b16be5a311543fde90b80c8d2b6
         </state>
       </provider>
     </entry>
