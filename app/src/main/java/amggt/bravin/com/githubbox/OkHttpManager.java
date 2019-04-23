@@ -137,7 +137,13 @@ public class OkHttpManager {
             builder = assembleFormRequestHeader().url(requestUrl);
         }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5e154eeb92f95b16be5a311543fde90b80c8d2b6
         return builder.build();
+
+
     }
 
     /**
